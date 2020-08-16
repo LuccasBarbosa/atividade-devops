@@ -1,0 +1,14 @@
+﻿Código
+
+
+[COD-01] - Desenvolvimento de software usando paradigma de Orientação a Objetos.
+[COD-02] - Desenvolvimento de webservice para cadastro, delete e update de cliente.
+[COD-03] - Desenvolvimento de padrão de projeto, design patterns.
+[COD-04] - Desenvolvimento de API REST usuários para requisições no front-end
+[COD-05] - Desenvolvimento de banco de dados relacional com suas respectivas normalizações.
+[COD-06] - Desenvolvimento de PWA (Webapp progressivo), para o usuário que não tiver espaço de armazenamento físico em seu dispositivo. 
+[COD-07] - Desenvolvimento do aplicativo versionando o código com o git na plataforma github. 
+[COD-08] - Desenvolvimento com intercâmbio de dados via JSON.
+[COD-09] - Desenvolvimento ágil usando metodologia SCRUM.
+[COD-10] - Desenvolvimento de software usando o task runner gulp.
+[COD-11] - Melhoranças contínuas e atualizações a cada 1 dia.
