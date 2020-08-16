@@ -1,0 +1,6 @@
+Design
+
+[DES-01] - a arquitetura do back-end do sistema deve ser estruturada com base em microsserviços, para facilitar o processo de inovações e futuras implementações sem que o serviço precise ser encerrado. Esta divisão será feita por módulos (repository, service, controllers, entity) incluindo a regra de negócios do serviço, além dos módulos que serão responsáveis pela camada de segurança
+[DES-02] - o back-end do sistema se comunicará com empresas de cartões de crédito para a validação dos dados do usuário 
+[DES-03] - o sistema se comunicará com um banco de dados relacional (ex. MySQL) salvando todas as informações sobre as viagens do cliente 
+[DES-04] - o aplicativo que estará disponível para a visualização do cliente no frontend será...

@@ -1,0 +1,6 @@
+Testes
+
+[TEST-01] - testar através do protocolo TCP/IP a conexão de dados com o veículo
+[TEST-02] - um sensor fará a verificação da quantidade mínima/máxima de pessoas e a soma de seus respectivos pesos, caso a condição não seja atendida, o veículo não sai em direção ao destino desejado
+[TEST-03] - testar a altitude que o veículo alcança e limitar o mínimo/máximo
+[TEST-04] - através de conexão banda larga, testar a sincronização do GPS
