@@ -1,0 +1,20 @@
+Requisitos
+
+[REQ-01] - o sistema deve ser monitorado por uma central de comando através de conexão banda larga
+[REQ-02] - o sistema deve identificar o número de passageiros antes da viagem 
+[REQ-03] - o sistema deve identificar o peso máximo dos passageiros antes da viagem
+[REQ-04] - o número de passageiros estará limitado em 1 até 3
+[REQ-05] - o peso total dos passageiros não deve ultrapassar 400kg
+[REQ-06] - o sistema deve gerenciar a altitude mínima/máxima do veículo a fim de evitar colisões
+[REQ-07] - o sistema deve gerenciar a velocidade máxima do veículo
+[REQ-08] - o sistema deve utilizar o recurso de GPS para a otimização do trajeto
+[REQ-09] - o veículo deve alcançar a altitude mínima permitida antes de prosseguir viagem
+[REQ-10] - o veículo não deve ultrapassar a altitude máxima durante a viagem
+[REQ-11] - o sistema deve validar se o cartão de débito/crédito é genuíno
+[REQ-12] - o sistema deve receber o pagamento da viagem por cartão de débito/crédito
+[REQ-13] - o sistema deve realizar a cobrança pela viagem automaticamente após o término do trajeto
+[REQ-14] - o sistema deve ter uma interface múltipla para o usuário do serviço
+[REQ-15] - a interface do usuário estará disponível para smartphones, tablets e computadores
+[REQ-16] - o sistema deve ter uma interface no painel do veículo que apresente o trajeto do usuário, tal como a estimativa de tempo total do serviço
+[REQ-17] - o sistema deve apresentar simultaneamente o trajeto do usuário no veículo e no aplicativo do cliente
+[REQ-18] - o sistema deve permitir que um cliente repita o trajeto uma viagem com base em suas viagens anteriores

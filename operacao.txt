@@ -1,6 +1,5 @@
 ﻿Operação
 
-
 [OP-01] - Definir se existe um nicho para o tipo de produto
 [OP-02] - Detalhar cada pecinha que compõe o avião: as estruturas, nervuras, longarinas, tanque de combustível e o sistema hidráulico
 [OP-03] - Criação em 3D do produto para se definir a distribuição interna dos sistemas.
